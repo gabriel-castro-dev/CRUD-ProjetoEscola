@@ -33,7 +33,7 @@ Este repositório contém um projeto de sistema de cadastro escolar desenvolvido
 - **C#**: Linguagem principal do projeto.
 - **Windows Forms/WPF**: Interface gráfica do usuário.
 - **Entity Framework/Core**: Para manipulação e persistência de dados.
-- **SQL Server/MySQL**: Banco de dados para armazenar as informações.
+- **MySQL**: Banco de dados para armazenar as informações.
 
 ---
 ##
